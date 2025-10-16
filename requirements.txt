@@ -10,4 +10,3 @@ pypdf2  # Para processar PDFs
 python-docx # Para processar DOCX
 dnspython 
 httpx
-imghdr
