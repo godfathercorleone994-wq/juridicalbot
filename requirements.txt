@@ -6,3 +6,5 @@ google-generativeai
 pydantic
 requests
 gunicorn
+pypdf2  # Para processar PDFs
+python-docx # Para processar DOCX
